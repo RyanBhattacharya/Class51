@@ -1,0 +1,36 @@
+ h1{
+     color: rgb(0, 0, 0);
+ }
+/**{
+    border: solid;
+}*/
+.header{
+    background-color: rgb(91, 214, 214);
+    display: flex;
+    justify-content:space-between;
+}
+.casper{
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(105, 116, 126);
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+
+}
+p{
+    text-align: center;
+}
+.Ryan{
+    background-color: rgb(168, 68, 64);
+    display:flex;
+    justify-content: space-evenly;
+}
+.Ryan p{
+    text-align: center;
+    
+    margin-top: 250px;
+
+}
